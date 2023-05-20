@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nelson Ryan Arabit</h1>
-<h3 align="center">A fullstack developer from Philippines</h3>
+<h3 align="center">A fullstack developer</h3>
 
 - 🌱 I’m currently learning **Vue JS and Laravel**
 
