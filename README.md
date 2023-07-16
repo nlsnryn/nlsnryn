@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nelson Ryan Arabit</h1>
 <h3 align="center">A Vue and Laravel Developer</h3>
 
-- 🌱 I’m currently learning **Vue JS and Laravel**
+- 🌱 I’m currently learning **Vue JS, React and Laravel**
 
 - 📫 How to reach me **nelsonarabit00@gmail.com**
 
