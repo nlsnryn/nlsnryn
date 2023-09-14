@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nelson Ryan Arabit</h1>
 <h3 align="center">A WEB DEVELOPER</h3>
 
-- 🌱 I’m currently learning **WEB DEVELOPER**
+- 🌱 I’m currently learning **WEB DEVELOPMENT**
 
 - 📫 How to reach me **nelsonarabit00@gmail.com**
 
